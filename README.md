@@ -100,4 +100,9 @@ ORPO: Monolithic Preference Optimization without Reference Model
         </p>
     </div>
 </div>
+
+## ORPO: Monolithic Preference Optimization without Reference Model
+
+[ORPO: Monolithic Preference Optimization without Reference Model](https://arxiv.org/abs/2403.07691)
+
 ![ORPO](https://th.bing.com/th/id/OIP.PhVMLEGxFypiLHcfdfD9IwHaCz?rs=1&pid=ImgDetMain)
