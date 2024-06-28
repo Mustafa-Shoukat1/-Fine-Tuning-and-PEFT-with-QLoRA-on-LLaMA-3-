@@ -73,6 +73,8 @@
 - **A specific strategy:** Within fine-tuning.
 - **Key Point:** Focuses on training only a subset of the pre-trained model's parameters, often identified through techniques like saliency maps or gradient analysis.
 - **Benefit:** Reduces computational cost compared to full fine-tuning while achieving comparable performance in some cases.
+![Transfer Learning Image](https://assets.isu.pub/document-structure/230601111519-67cde4fe1c7eba3b19bcb148f484d14a/v1/5875b3596bd87a85183be5a114dd4fd0.jpeg)
+
 
 ### Adapter
 Adapters are a special type of submodule that can be added to pre-trained language models to modify their hidden representation during fine-tuning. By inserting adapters after the multi-head attention and feed-forward layers in the transformer architecture, we can update only the parameters in the adapters during fine-tuning while keeping the rest of the model parameters frozen.
