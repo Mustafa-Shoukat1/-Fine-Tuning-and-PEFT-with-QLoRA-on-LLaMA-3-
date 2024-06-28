@@ -1,11 +1,3 @@
-<div style="position: relative; z-index: 1; background-color: rgba(255, 255, 255, 0.9); backdrop-filter: blur(10px); border-radius: 20px; padding: 20px;">
-    <h1 style="color: red; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4); font-weight: bold; margin-bottom: 10px; font-size: 32px; text-align: center;"></h1>
-    <p style="color: #1976D2; font-size: 18px; margin: 10px 0; text-align: center;">
-        <img src="https://miro.medium.com/v2/resize:fit:1200/1*rOW5plKBuMlGgpD0SO8nZA.png" alt="ORPO Diagram" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"/>
-    </p>
-</div>
-
-
 <div style="position: relative; text-align: center; background-image: url('https://media.licdn.com/dms/image/D4D35AQHj1_GYdHxDig/profile-framedphoto-shrink_400_400/0/1718974840314?e=1720130400&v=beta&t=87mIwnblVeilRNWe6W2wAKfCsKKq-LJADFMm5yarCUI'); background-size: 70%; background-position: center; border-radius: 20px; border: 2px solid #64B5F6; padding: 15px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.4), 0px 6px 20px rgba(0, 0, 0, 0.19); transform: perspective(1000px) rotateX(5deg) rotateY(-5deg); transition: transform 0.5s ease-in-out;">
     <div style="position: relative; z-index: 1; background-color: rgba(255, 255, 255, 0.9); backdrop-filter: blur(10px); border-radius: 20px; padding: 20px;">
         <h1 style="color: red; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4); font-weight: bold; margin-bottom: 10px; font-size: 32px;">Welcome!</h1>
