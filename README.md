@@ -100,6 +100,3 @@ ORPO: Monolithic Preference Optimization without Reference Model
         </p>
     </div>
 </div>
-
-![Transfer Learning Image](https://assets.isu.pub/document-structure/230601111519-67cde4fe1c7eba3b19bcb148f484d14a/v1/5875b3596bd87a85183be5a114dd4fd0.jpeg)
-
