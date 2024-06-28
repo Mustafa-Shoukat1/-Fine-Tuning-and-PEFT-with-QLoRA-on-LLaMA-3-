@@ -92,7 +92,6 @@ While DPO and IPO are cheaper, they still require to train two different models.
 ### ORPO
 Instruction tuning and preference alignment are essential techniques for adapting Large Language Models (LLMs) to specific tasks. Traditionally, this involves a multi-stage process: 1/ Supervised Fine-Tuning (SFT) on instructions to adapt the model to the target domain, followed by 2/ preference alignment methods like Reinforcement Learning with Human Feedback (RLHF) or Direct Preference Optimization (DPO) to increase the likelihood of generating preferred responses over rejected ones.
 
-![Transfer Learning Image]([https://assets.isu.pub/document-structure/230601111519-67cde4fe1c7eba3b19bcb148f484d14a/v1/5875b3596bd87a85183be5a114dd4fd0.jpeg](https://th.bing.com/th/id/OIP.PhVMLEGxFypiLHcfdfD9IwHaCz?rs=1&pid=ImgDetMain)
 
 ORPO is yet another new method for LLM alignment but this one doesn’t even need the SFT model. With ORPO, the LLM jointly learns to answer instructions and human preferences.
 ORPO: Monolithic Preference Optimization without Reference Model
